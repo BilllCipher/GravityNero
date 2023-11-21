@@ -16,6 +16,8 @@ const char* getStatusString(CryptoNote::HttpResponse::HTTP_STATUS status) {
     return "404 Not Found";
   case CryptoNote::HttpResponse::STATUS_500:
     return "500 Internal Server Error";
+    case CryptoNote::HttpResponse::STATUS_418:
+      return "418, the serves refuses to bew coffe because it is permanently a teapot";
   default:
     throw std::runtime_error("Unknown HTTP status code is given");
   }
