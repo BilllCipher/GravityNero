@@ -7,6 +7,8 @@ This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurren
 * Discussion board and support: [CryptoNote Forum](https://forum.cryptonote.org)
 
 ## GravityNero!
--Intended to mimic Monero \n
--Intended to be private \n
+-Intended to mimic Monero
+
+-Intended to be private
+
 -Testing purposes
