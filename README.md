@@ -1,3 +1,5 @@
+THIS IS A PERSONAL FORK OF CRYPTONOTE BY BILLLCIPHER USED FOR TESTING
+
 This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
 
 * Launch your own CryptoNote currency: [CryptoNote Starter](https://cryptonotestarter.org/)
