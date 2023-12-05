@@ -141,4 +141,4 @@ bool Miner::setStateBlockFound() {
   }
 }
 
-} //namespace CryptoNote
+}
